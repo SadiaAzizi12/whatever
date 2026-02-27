@@ -1,2 +1,2 @@
-#Group Members: Sadia Azizi, nandin , Jess
+#Group Members: Sadia Azizi, Nandin-Erdene Molomjamts, Jess
 
