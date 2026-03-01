@@ -1,4 +1,4 @@
-#This is our program
+# This is our program
 firstNum = input("Enter a num please")
 secondNum = input("Enter a second num please")
 
