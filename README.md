@@ -14,5 +14,5 @@ Addition Calculation: In the first print statement, Python calculates the sum of
 
 Subtraction Calculation: In the second print statement, Python calculates the difference using the - operator.
 
-Final Output: The results are displayed on the screen along with labels.
+Final Output: The results are displayed on the screen along with labels that specify whether the numbers were added or subtracted.
 
